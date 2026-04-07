@@ -1,0 +1,47 @@
+{
+  "best_model": "Lasso",
+  "all_models": {
+    "Lasso": {
+      "r2": 1.0,
+      "mae": 0.0175,
+      "rmse": 0.0226,
+      "mape_pct": 0.09
+    },
+    "ElasticNet": {
+      "r2": 1.0,
+      "mae": 0.0449,
+      "rmse": 0.058,
+      "mape_pct": 0.23
+    },
+    "MLP_Shallow": {
+      "r2": 0.9997,
+      "mae": 0.13,
+      "rmse": 0.1622,
+      "mape_pct": 0.74
+    },
+    "MLP_Deep": {
+      "r2": 0.9996,
+      "mae": 0.1477,
+      "rmse": 0.1918,
+      "mape_pct": 0.83
+    },
+    "GBM": {
+      "r2": 0.9994,
+      "mae": 0.1686,
+      "rmse": 0.2356,
+      "mape_pct": 0.85
+    },
+    "ExtraTrees": {
+      "r2": 0.999,
+      "mae": 0.1608,
+      "rmse": 0.3037,
+      "mape_pct": 0.8
+    },
+    "RandomForest": {
+      "r2": 0.9987,
+      "mae": 0.1561,
+      "rmse": 0.3336,
+      "mape_pct": 0.72
+    }
+  }
+}

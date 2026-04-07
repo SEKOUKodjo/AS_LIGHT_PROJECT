@@ -1,0 +1,12 @@
+{
+  "mean": 20.18,
+  "std": 8.5,
+  "min": 5.73,
+  "max": 52.47,
+  "isa_p95": 0.1377,
+  "risk_thresholds": {
+    "faible": 16.55,
+    "modere": 22.96,
+    "eleve": 30.11
+  }
+}
